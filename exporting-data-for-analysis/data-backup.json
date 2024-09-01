@@ -1,0 +1,987 @@
+[
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "aurochs",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "ara\n              atwoodi",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "blackfin\n              cisco",
+    "Animal Class": "Actinopterygii"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "Caribbean monk\n              seal",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "Caspian\n              tiger",
+    "Animal Class": "No class found."
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "dodo",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "eastern\n              cougar",
+    "Animal Class": "No class found."
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "great auk",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "Guam\n              flycatcher",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "Javan\n              tiger",
+    "Animal Class": "No class found."
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "Labrador\n              duck",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "lesser\n              bilby",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "New Zealand quail",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "passenger pigeon",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "Schomburgk's\n              deer",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "Steller's sea\n              cow",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "thylacine",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "toolache wallaby",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Extinct(EX)\u00a0",
+    "Animal Name": "California Grizzly Bear",
+    "Animal Class": "No class found."
+  },
+  {
+    "Category": "Extinct in the wild(EW)\u00a0\n    ",
+    "Animal Name": "Guam\n              kingfisher",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct in the wild(EW)\u00a0\n    ",
+    "Animal Name": "Guam Rail",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct in the wild(EW)\u00a0\n    ",
+    "Animal Name": "Hawaiian\n              crow",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct in the wild(EW)\u00a0\n    ",
+    "Animal Name": "P\u00e8re David's\n              deer",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Extinct in the wild(EW)\u00a0\n    ",
+    "Animal Name": "scimitar\n              oryx",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Extinct in the wild(EW)\u00a0\n    ",
+    "Animal Name": "Socorro\n              dove",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Extinct in the wild(EW)\u00a0\n    ",
+    "Animal Name": "South China tiger",
+    "Animal Class": "No class found."
+  },
+  {
+    "Category": "Extinct in the wild(EW)\u00a0\n    ",
+    "Animal Name": "Wyoming\n              toad",
+    "Animal Class": "Amphibia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "extinction",
+    "Animal Class": "No class found."
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "addax",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "African wild ass",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Alabama cavefish",
+    "Animal Class": "Actinopterygii"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Amur\n              leopard",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Javan\n              rhino",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Arabian leopard",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Arakan forest\n              turtle",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Asiatic cheetah",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "axolotl",
+    "Animal Class": "Amphibia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Wild Bactrian\n              camel",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "black\n              rhino",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "blue-throated\n              macaw",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Brazilian\n              merganser",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "brown spider\n              monkey",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "California condor",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Chinese alligator",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Chinese\n              giant salamander",
+    "Animal Class": "Amphibia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Cross River\n              gorilla",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Florida panther",
+    "Animal Class": "No class found."
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "gharial",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Hawaiian monk\n              seal",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "hawksbill sea\n              turtle",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Imperial\n              woodpecker",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Ivory-billed Woodpecker",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Tristan albatross",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Amsterdam\n              albatross",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Leadbeater's\n              possum",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Mediterranean monk seal",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Northwest African cheetah",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "northern hairy-nosed wombat",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Philippine\n              crocodile",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "red wolf",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "saiga",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Siamese crocodile",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "red-throated\n              lorikeet",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Spix's\n              macaw",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "southern\n              bluefin tuna",
+    "Animal Class": "Actinopterygii"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "R\u00fcck's blue flycatcher",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Sumatran\n              orangutan",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Sumatran\n              rhinoceros",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "blue-fronted\n              lorikeet",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "vaquita",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Yangtze river dolphin",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "western\n              lowland gorilla",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "hawksbill sea\n              turtle",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Critically endangered(CR)\u00a0\n    ",
+    "Animal Name": "Kemp's\n              ridley sea turtle",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Mexican\n              Wolf",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "African penguin",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Amur\n              tiger",
+    "Animal Class": "No class found."
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Asian\n              elephant",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Bengal\n              tiger",
+    "Animal Class": "No class found."
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Australasian\n              bittern",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "blue whale",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "bonobo",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Bornean orangutan",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "common chimpanzee",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "dhole",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Ethiopian wolf",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Flores\n              crow",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "hispid\n              hare",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "giant\n              otter",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Goliath\n              frog",
+    "Animal Class": "Amphibia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "grey\n              parrot",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "green sea turtle",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "loggerhead sea\n              turtle",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Grevy's\n              zebra",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Humblot's heron",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Iberian\n              lynx",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Indian\n              pangolin",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Japanese\n              crane",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Japanese night\n              heron",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Lear's\n              macaw",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Malayan\n              tapir",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Malagasy pond\n              heron",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "mountain gorilla",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "yellow headed amazon",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "purple-faced\n              langur",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "red-breasted\n              goose",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Rothschild's\n              giraffe",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "South Andean deer",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "anoa",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "takhi",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Toque\n              macaque",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Vietnamese\n              pheasant",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "volcano\n              rabbit",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "wild water\n              buffalo",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "whale\n              shark",
+    "Animal Class": "Chondrichthyes"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "white-eared night heron",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "Whooping\n              crane",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "tasmanian devil",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Endangered(EN)\u00a0\n    ",
+    "Animal Name": "red panda",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "African leopard",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "American\n              paddlefish",
+    "Animal Class": "Actinopterygii"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "common\n              carp",
+    "Animal Class": "Actinopterygii"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "clouded leopard",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "dugong",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "Far Eastern\n              curlew",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "fossa",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "gaur",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "blue headed macaw",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "blue-eyed\n              cockatoo",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "golden\n              hamster",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "Great slaty\n              woodpecker",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "hyacinth\n              macaw",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "Humboldt penguin",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "blue crane",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "lesser white-fronted goose",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "mandrill",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "maned\n              sloth",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "Montserrat oriole",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "mountain\n              zebra",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "Hawaiian\n              goose",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "pacific\n              walrus",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "sloth bear",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "snow\n              leopard",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "takin",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "great white shark",
+    "Animal Class": "Chondrichthyes"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "American\n              crocodile",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "white-necked crow",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Vulnerable(VU)\u00a0\n    ",
+    "Animal Name": "dingo",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "American\n              bison",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "Asian golden cat",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "blue-billed duck",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "emperor\n              goose",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "emperor penguin",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "Eurasian curlew",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "jaguar",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "Larch\n              Mountain salamander",
+    "Animal Class": "Amphibia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "lesser\n              long-nosed bat",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "Magellanic\n              penguin",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "maned wolf",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "margay",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "montane solitary eagle",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "Pampas cat",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "Pallas's\n              cat",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "reddish\n              egret",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "white rhinoceros",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "striped\n              hyena",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "tiger\n              shark",
+    "Animal Class": "Chondrichthyes"
+  },
+  {
+    "Category": "Near-threatened(NT)\u00a0\n    ",
+    "Animal Name": "white eared\n              pheasant",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "Black-bellied whistling duck",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "Saltwater\n              crocodile",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "Indian\n              peafowl",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "olive\n              baboon",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "bald eagle",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "lesser bird of paradise",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "brown bear",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "brown rat",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "brown-throated\n              sloth",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "Canada\n              goose",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "cane toad",
+    "Animal Class": "Amphibia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "common wood\n              pigeon",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "magpie\n              goose",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "grey wolf",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "house\n              mouse",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "palm\n              cockatoo",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "Louisiana black\n              bear",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "mallard",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "mute swan",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "Eurasian magpie",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "red-billed quelea",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "common hill myna",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "red-tailed hawk",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "rock\n              pigeon",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "blue and yellow macaw",
+    "Animal Class": "Aves"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "southern\n              elephant seal",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "Freshwater\n              crocodile",
+    "Animal Class": "Reptilia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "humpback\n              whale",
+    "Animal Class": "Mammalia"
+  },
+  {
+    "Category": "Least concern(LC)\u00a0\n    ",
+    "Animal Name": "red howler\n              monkey",
+    "Animal Class": "Mammalia"
+  }
+]
